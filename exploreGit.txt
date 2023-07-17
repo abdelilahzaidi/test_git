@@ -1,0 +1,5 @@
+Git :permet de faire des points de sauvegardes.
+----
+
+1-Telecharger git à partir du site officiel
+2-Initialiser un projet git : git init
