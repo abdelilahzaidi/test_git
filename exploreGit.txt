@@ -6,3 +6,4 @@ Git :permet de faire des points de sauvegardes.
 2-Initialiser un projet git : git init
 3-Créer une branche : git branch nom_branche
 4-git branch permet de montrer les branches existantes
+5-git merge => choix de la branche principale comme receptrice de la branche ab1
