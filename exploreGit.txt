@@ -1,5 +1,6 @@
 Git :permet de faire des points de sauvegardes.
 ----
-
+-Installer l'extension git graph
+-Quand les sauvegardes sont en locales, elles se font toutes dans le .git
 1-Telecharger git à partir du site officiel
 2-Initialiser un projet git : git init
